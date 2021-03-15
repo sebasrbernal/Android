@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sebasrbernal/AndroidStudioProjects/HolaMundo1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gem/values-gem.xml",
+            "map": [
+                {
+                    "source": "/Users/sebasrbernal/AndroidStudioProjects/HolaMundo1/app/src/main/res/values-gem/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,150,103",
+                        "endColumns": "47,42,46",
+                        "endOffsets": "98,188,145"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,103,146",
+                        "endColumns": "47,42,46",
+                        "endOffsets": "98,141,188"
+                    }
+                }
+            ]
+        }
+    ]
+}
